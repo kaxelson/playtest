@@ -94,4 +94,3 @@ Use the following command, and then browse to localhost:9000:
     
     
 To get your cloudbees DB info - run bees db:info -p youraccount/appname(from your clickstart)    
-
