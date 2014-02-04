@@ -4,3 +4,8 @@ project/project
 project/target
 target
 tmp
+/.target
+/bin
+.classpath
+.project
+/.settings
